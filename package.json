@@ -1,0 +1,19 @@
+{
+  "name": "coffeekraken-import-glob",
+  "version": "1.0.0",
+  "description": "ES6 import with glob patterns (preloader for Webpack)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "import",
+    "glob",
+    "webpack",
+    "coffee",
+    "kraken",
+    "coffeekraken"
+  ],
+  "author": "Olivier Bossel <olivier.bossel@gmail.com>",
+  "license": "MIT"
+}
