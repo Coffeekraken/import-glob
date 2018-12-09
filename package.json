@@ -15,5 +15,8 @@
     "coffeekraken"
   ],
   "author": "Olivier Bossel <olivier.bossel@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.3"
+  }
 }
