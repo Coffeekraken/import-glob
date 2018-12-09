@@ -1,4 +1,4 @@
-# import-glob
+# coffeekraken-import-glob
 ES6 import with glob patterns (preloader for Webpack)
 
 Expands globbing patterns for ES6 `import` statements.
@@ -53,7 +53,7 @@ Expands into
 
 ## Install
 ```sh
-npm install import-glob --save-dev
+npm install coffeekraken-import-glob --save-dev
 ```
 
 ## Usage
